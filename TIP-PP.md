@@ -1,8 +1,3 @@
-Here is your complete, production-ready Master Privacy Policy for the TIP ecosystem, fully updated with your correct support email (`redartcincy@gmail.com`), in-app account deletion terms, and strict data retention schedules.
-
-You can save this directly as `privacy-policy.md` or paste it into your in-app policy modals and App Store Connect disclosures.
-
----
 
 # Master Privacy Policy: TIP
 
@@ -59,4 +54,3 @@ Our services are not directed to individuals under the age of 18, except for min
 
 If you have questions or concerns about this Privacy Policy or our data practices, please contact us through your management support portal or at **redartcincy@gmail.com**.
 
----
